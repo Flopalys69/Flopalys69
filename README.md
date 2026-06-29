@@ -1,16 +1,19 @@
-## Hi there 👋
+## DOCUMENTATION
 
-<!--
-**Flopalys69/Flopalys69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Le bot click au coordonnée choisi ceci fonctionne sur snapchat web ci cela bug je vous invite a recalculer les coordonnée avec find_co.py
 
-Here are some ideas to get you started:
+## PERFORMANCES 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Environ 3000snap/h
+- Envoie de 1 snap en 0.8 secondes
+
+## Installation
+
+pip install time pyautogui keyboard`
+
+## CONCLUSION
+
+-TOUT LE RESTE EST DANS LE CODE N'HESITEZ PAS A ME CONATCTER A "mwa.tjr@icloud.com"
+-IL S'AGIT ICI DE LA V1 DU CODE JE SUIS TOTALEMENT OUVERT AUX SUGGESTION
+
+
