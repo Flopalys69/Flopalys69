@@ -9,11 +9,11 @@
 
 ## Installation
 
-pip install time pyautogui keyboard`
+pip install time pyautogui keyboard
 
 ## CONCLUSION
 
--TOUT LE RESTE EST DANS LE CODE N'HESITEZ PAS A ME CONATCTER A "mwa.tjr@icloud.com"
--IL S'AGIT ICI DE LA V1 DU CODE JE SUIS TOTALEMENT OUVERT AUX SUGGESTION
+- TOUT LE RESTE EST DANS LE CODE N'HESITEZ PAS A ME CONATCTER A "mwa.tjr@icloud.com"
+- IL S'AGIT ICI DE LA V1 DU CODE JE SUIS TOTALEMENT OUVERT AUX SUGGESTION
 
 
